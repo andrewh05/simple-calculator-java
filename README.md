@@ -16,7 +16,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/simple-calculator.git
+git clone https://github.com/andrewh05/simple-calculator-java.git
 cd simple-calculator
 Compile the Program:
 
