@@ -44,6 +44,6 @@ Contributing
 Contributions are welcome! If you find a bug or have an idea for an improvement, feel free to fork the repository and submit a pull request.
 
 Contact
-For any inquiries, please reach out to:
+For any inquiries, please reach out to: 
 
 Email: andrewphaddad@gmail.com
